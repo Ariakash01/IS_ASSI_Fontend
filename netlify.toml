@@ -4,6 +4,6 @@
   base ="/"
 
 [[redirects]]
-  from = "/*"
+  from = "/netlify.toml"
   to = "/app.html"
   status = 200
